@@ -1,2 +1,2 @@
-# WheatherApp
+# CurrencyConverter
 Android Studio Project (Java) 
